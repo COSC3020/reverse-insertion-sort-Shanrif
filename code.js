@@ -23,8 +23,6 @@ function insertionSortReverse(arr) {
         arr[j] = val;
       }
       return arr;
-
-    return array;
    /* for(var i = 1; i < arr.length; i++) {
         var val = arr[i];
         var j;
